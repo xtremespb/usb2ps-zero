@@ -1,0 +1,8 @@
+ps2usb-backups
+*.lck
+.DS_Store
+/usb2ps2-backups
+\#auto_saved_files\#
+_autosave-usb2ps2.kicad_sch
+/minifrank-backups
+fp-info-cache
