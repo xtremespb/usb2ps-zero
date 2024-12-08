@@ -58,19 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "shorting_items|117680000|84920000|77d79291-e037-4b5d-848c-c5d12fe2f287|261330d4-5636-4f5f-b160-a8bfa13d06ce",
-        "shorting_items|117680000|87460000|191ab237-e5c6-4265-a8ff-f4ea55599690|4fff7c3c-8016-4b58-b775-2fcabd15089e",
-        "shorting_items|117680000|90000000|c8dac1e9-823b-4e4a-879f-040b9d682490|05cf8af8-e65f-40c4-9356-5b3a237f55fa",
-        "shorting_items|117680000|92540000|89c03c9b-8c3e-4980-9ee2-543d13d70f6b|b7522e78-6477-4d99-bb5d-edb0001aa2a2",
-        "shorting_items|117680000|95080000|d705245c-0f03-434f-8ccc-7601e2481f27|6d988b81-026d-44b3-88dc-feb46e89a852",
-        "shorting_items|120220000|100660000|cf581608-d40f-4aa9-8112-fd930816a87c|c0532d84-24b1-4ad5-b908-fe2d03e035db",
-        "shorting_items|127840000|100660000|584d316f-1ab7-46cb-9f83-86f9553904f4|4aa0a9d7-4d95-4cd4-adad-287ea46fca31",
-        "shorting_items|130380000|100660000|03a0ad1f-4894-43cd-9975-e6f52309160c|46164928-4eff-41b6-a4b0-642e5de32ca2",
-        "shorting_items|133420000|100160000|8db1a62c-89fc-4d67-aaeb-66bb14f0296b|50571efa-81c1-441a-858a-b07d436934e6",
-        "shorting_items|133420000|95080000|0c7d0e82-6675-4c70-908c-7c04ca6c3b63|ad06a9ea-8aed-42b6-9277-efa40605091f",
-        "shorting_items|133420000|97620000|b9a3b52c-08cc-4875-82b1-743ab9581bd3|e1411d06-6471-4dca-84a5-2cfe6ad9a5b8"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
